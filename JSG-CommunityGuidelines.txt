@@ -1,0 +1,135 @@
+JSG-CG
+JustSomeGamers Community Guidelines
+ 
+These Guidelines do not set rules for our community.
+It explains who we are, what we do, and how things work in our community.
+As JustSomeGamers grows and evolves so will the sections in the Guidelines.
+ 
+Sections
+1. Being just some gamer
+2. Becoming a Member
+3. Mumble Etiquette
+4. Powered Users: Info Breakdown
+#. Common Questions & Concerns
+
+ 
+1. Being just some gamer
+Gaming is an experience because unlike any other media it is naturally
+interactable. You can change it, become apart of it. An almost literal
+sense of "one-ness" that can bring you away from real life and into a
+fantasy realm, or a futuristic space fight, or whatever creative and
+imaginative world today's game developers spend their time to develop.
+ 
+Arguably, the best games are ones with multiplayer. We love gaming with
+our friends and at times our family; even playing with complete strangers
+can be a ton of fun, because though actions we have with strangers we
+create our friends. When we find someone we really love to play with, it
+doesn't matter what games we play: we will always put our friends above
+the games we play.
+ 
+This is the basis of everything JustSomeGamers is based on. A group
+that does not care about your age, voice, game skills, sex, or any bias.
+But looks at you based on your character, maturity, and individual
+personality. It is though a community that supports this view only that
+we can break the idea of the steriotypical basement dwelling gamer.
+ 
+Gaming has now been intergrated into a new generation of kids. For them
+to grow up in any gaming group that says "Attend our drill or get kicked!"
+is unacceptable. What if that person is being called to sit down and eat
+dinner with their family? The gaming group is now putting pressure on people
+to miss events with their family or give up relationships they developed
+withing a group. This is why some people cannot commit to a group or never have.
+ 
+JustSomeGamers is built on the idea of Family Anarchy. NOT "anarchy" as in
+someone with a molatov coctail and anonymous maks shouting "No goverment!",
+but Anarchy as in the right to do what you want with yourself as a free,
+independent, beutiful individual so long it does not effect the rights of
+another person. Surprisingly this is not a political group, but a gaming
+community. (maybe we should run for office...)
+ 
+The "Family" part is to show the values put into this community. We have
+a Code that every member honors and stands by. It's not very demanding
+and describes the ideal scene we should all behave in.
+ 
+1. Honor, Respect and Protect our Freinds, Members, and Community.
+2. We must always value our friends over the games we play.
+3. Practice good character and sportsmanship with all players.
+4. Our enemies are elitism, drama, and the negative state of mind.
+5. If I am IN-GAME, I will also be on our community's voice server.
+ 
+Each Code is read by every member of JustSomeGamers in front of a current
+member and recorded as proof. This and ensures that every members understand
+the ethics behind our community.
+ 
+We alsohave a time to sit down and talk that we call the Town Hall Meeting.
+This isn't really a "meeting" but really everybody in the community coming
+together to discuss recent events and plans made. It also lasts just as long
+as most dinners. (30 minutes to 1 hour, but the farther we get from the 30 min
+mark the more we prompt everybody to finish their discussions.)
+
+
+2. Becoming a Member
+First off, we expect every person who is joining our Steam Group to understand
+that they are becoming Member. All Members have an obligation to follow the
+Community Code: a short list of rules that every Member must follow.
+
+
+3. Mumble Etiquette
+Every person in Mumble is expected to follow proper Mumble Etiquette.
+Failure to follow Etiquette multiple times in a row will lead to the offender
+being removed from the community. This ensures that there is nobody running
+around the Mumble inturrupting people's lobbies or conversations.
+
+1st Rule of Etiquette: Listen before you speak when you enter a channel.
+Reason for doing so, is that if you hop into a channel and say "Yo, what's up?"
+you stand a good chance of inturrupting a person's conversation. Even if you go
+into a channel with the best of intentions (even if some of the people inside
+the channel are your frieds) it's proper Etiquette to LISTEN before you SPEAK.
+
+2nd Rule of Etiquette: When asked by players in a channel "Can you please leave
+the channel?" you must awknowledge their request and leave the channel.
+Reason for doing so, is that some people want to have a privite conversation or
+just be in a small lobby with just some personal friends. DO NOT back-talk
+people who request you to leave, this give THEM the right to ask a Moderator
+to move you or ban you from entering that channel. So when asked, please leave.
+
+3rd Rule of Etiquette: Have the Skype process off on your computer.
+Reason for doing so, is that many of the Members of JustSomeGamers are very
+security conscious. Skype has many vulnerabilities, requires your email, has
+ads on it, and a very shotty service for voice chat with groups of people.
+Mumble, has none of these problems; and everything uses military grade
+encryption. Please do not let Skype collect any data from Mumble or your mic.
+
+If you have friends on Skype, please tell them to download Mumble and connect
+to the server. The JSG Mumble is open for non-members to use as well because
+we just care about your security. Not to mention, that our Mumble also has
+DDoS protection. Follow the previous two rules of Mumble Etiquette and you will
+have a nice, quiet, privite channel for you and your friends (or family even)
+to use with military grade security.
+
+4. Powered Users: Info Breakdown
+
+
+#. Common Questions & Concerns
+New and veteran Members ask some specific questions, and I'd like to address
+some of those questions in this section. Mostly to get rid of any possible
+rumors or confusion getting spread between conversations.
+
+Question 1: Do I always have to be on Mumble?
+
+Answer: No, the Code specifically states that you are on Mumble when you get
+IN-GAME. It's on the part of Members to get on Mumble. The Powered Users will
+meet you halfway and set up the Programs, Events, and the infrastructure of the
+community; and Members are expected to meet halfway back and hop on Mumble, and
+contribute to any Programs that they like.
+
+Question 2: I have friends on Skype that don't want to download Mumble. What
+are some things that I can do?
+
+Pursuade them about the insecurity of using Skype in the first place and that
+Mumble doesn't show ads, dosen't require an sign-up, and has better voice chat
+and encryption. Our server has DDoS protection and has very well mannered
+people who will respect your privacy in channels. If your friend won't at least
+try out Mumble you probably need to ask "What will this guy do if I ask for
+help in the future?" Emphasize your friendship and put it above the games that
+we play.
