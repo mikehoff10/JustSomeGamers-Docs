@@ -107,6 +107,22 @@ DDoS protection. Follow the previous two rules of Mumble Etiquette and you will
 have a nice, quiet, privite channel for you and your friends (or family even)
 to use with military grade security.
 
+4th Rule of Etiquette: Do not leave Mumble if you think nobody will join you or
+if someone you are looking for is not currently online Mumble.
+Reason for doing so, is to keep Mumble consistant with the people ingame. If
+two guys are playing DayZ are in Mumble, and then hop into the DayZ channel,
+these two guys who never knew eachother before are now working as a team.
+If these two didn't hop on Mumble they would of never met. So even if you plan
+to play solo, you still want to be on Mumble.
+
+Sometimes, people leave Mumble because of the second reason. "Someone you are
+looking for is not currently online Mumble." The proper Etiquette thing to do
+is wait for them. Because if you disconnect, and then the person you are
+looking for just then connects, it creates this enless cycle of you and that
+person disconnecting and reconnecting looking for eachother. So please wait
+when you're looking for a specific person.
+
+
 4. Powered Users: Info Breakdown
 
 
