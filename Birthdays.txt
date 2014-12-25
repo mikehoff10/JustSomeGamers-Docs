@@ -8,3 +8,7 @@ MrKrucible - December 2nd
 ThxBeatZz- December 18th
 Link - December 19th
 Master_Chew - December 20th
+<<<<<<< HEAD
+=======
+Cokeisdead - April 7th
+>>>>>>> f5ce40fb450eb7bffdf555a2f3f4a6c91f576d97
