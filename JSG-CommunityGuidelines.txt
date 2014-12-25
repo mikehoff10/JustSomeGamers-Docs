@@ -93,6 +93,12 @@ just be in a small lobby with just some personal friends. DO NOT back-talk
 people who request you to leave, this give THEM the right to ask a Moderator
 to move you or ban you from entering that channel. So when asked, please leave.
 
+The general rule of thumb with "Who can say you must leave?" question, is the
+first in is host. So if you want to have a privite conversation, you ask people
+to leave. If you don't care exactly who joins but just want to have a plesant
+time, then just make sure others are also following the Code and Etiquette
+rules. A happy Mumble is one that has manners.
+
 3rd Rule of Etiquette: Have the Skype process off on your computer.
 Reason for doing so, is that many of the Members of JustSomeGamers are very
 security conscious. Skype has many vulnerabilities, requires your email, has
@@ -124,6 +130,24 @@ when you're looking for a specific person.
 
 
 4. Powered Users: Info Breakdown
+The term "Powered Users" actually was made up because we got really tired of
+saying "...the Hosts, Moderators, and Admins..." as it takes way too long. So,
+instead Powered Users will refer to these 3 ranks in our community. We'll go
+down each rank, starting with Hosts, and describe what it is they do and the
+caliber or type of person you should expect a specific rank to be.
+
+- Host
+Imagine the guy who makes a lobby and invites his friends. Then organizes the
+lobby into something that is fun to be part of. Everybody in gaming is familiar
+with the idea of a host. Though this is the only gaming group that has a Hosts
+rank to awknowledge who these people are. Nobody who "just makes a lobby" gets
+to automadically become a Host.
+
+Hosts are the type of people we expect to get us together. They invite you to
+lobbies on a regular basis, they are polite, follow and teach Mumble Etiquette,
+and can handle most people who start drama or become annoying to their lobby
+members. To help Hosts manage these things they gain MOVE and MUTE powers on
+Mumble. These are tools to Hosts are expected to get the best.
 
 
 #. Common Questions & Concerns
