@@ -10,8 +10,15 @@ Sections
 2. Becoming a Member
 3. Mumble Etiquette
 4. Powered Users: Info Breakdown
+- Host
+- Moderator
+- Administrator
+5. Events and Programs
+- Events
+- Programs
 #. Common Questions & Concerns
-
+- Q&A
+- Gui's 5 Whats
  
 1. Being just some gamer
 Gaming is an experience because unlike any other media it is naturally
@@ -71,7 +78,11 @@ mark the more we prompt everybody to finish their discussions.)
 2. Becoming a Member
 First off, we expect every person who is joining our Steam Group to understand
 that they are becoming Member. All Members have an obligation to follow the
-Community Code: a short list of rules that every Member must follow.
+Community Code: a short list of rules that every Member must follow. Then just
+introduce yourself on the Steam Discussions. There will be a link on the Steam
+Group page that'll take you right to it. Once you make an introduction, other
+members will be notified of your thread and some will welcome you personally to
+the community.
 
 
 3. Mumble Etiquette
@@ -128,6 +139,13 @@ looking for just then connects, it creates this enless cycle of you and that
 person disconnecting and reconnecting looking for eachother. So please wait
 when you're looking for a specific person.
 
+5th Rule of Etiquette: When talking to real life friends in Mumble, refer to
+them as their Mumble name. Lots of people have the same first name in JSG, but
+everybody has different usernames. It's cool if you're in a channel with only
+real life friends in it; that's totally fine. Just when other members come in
+or even some of your online friends do, refer to your real life friends by
+their Mumble name.
+
 
 4. Powered Users: Info Breakdown
 The term "Powered Users" actually was made up because we got really tired of
@@ -147,13 +165,69 @@ Hosts are the type of people we expect to get us together. They invite you to
 lobbies on a regular basis, they are polite, follow and teach Mumble Etiquette,
 and can handle most people who start drama or become annoying to their lobby
 members. To help Hosts manage these things they gain MOVE and MUTE powers on
-Mumble. These are tools to Hosts are expected to get the best.
+Mumble. These permissions, if abused, 
+
+Essentially, Hosts will help Mods and Admins manage the Mumble. Hosts take the
+pressure off Mods and Admins that at times need to focus on solving technical
+issuse with server or resolve drama. That's why teaching things like the Code
+and Mumble Etiquette is necessary for a Host to do: it helps the Host set the
+tone for his lobbies so Hosts can keep everything clean.
+
+- Moderator
+There are more serious tasks that Hosts do not want to handle at times. Mods
+can be seen as the garbage collecters of the group because they take out the
+trash. They have the responsibility to have a close eye on the group and make
+sure everything is at peace. Mods should also seem more friendly in JSG
+because all Mods must have masterful experience as Host.
+
+Mods are the type of people we expect to ensure order is achieved. Moderators
+continue to hold their Host obligations, and become more accountable with the
+technical aspects of the community. Create offical voting threads, make sure
+that the Code and Mumble Etiquette is followed, and when someone starts acting
+in a questionable way you start asking questions. (< refering to rude behavior)
+
+Some of the trash that Mods handle can be simple like kicking inactive members
+from the Steam Group, and requesting a member to follow the 5th Code; to things
+that can escalate like drama or demoting a Host. Stopping people from abusing
+music bots, taking members aside for rude behavior during events (screaming or
+expressing "I think this is stupid just because." opinions), and a plethora of
+minor things that help clean up the group.
+
+> All the specifics will be developed by the community in the Moderator's
+Handbook. Not really a "how to" handbook, just a specialized version of the
+Guidelines for Moderators. <
+
+- Administrator
+
+
+
+5. Events and Programs
+Events are the key part of any gaming group. They bring the best and biggest
+lobbies, and some of the most memorable moments of being with your friends and
+group members. JSG has events very often because it's stressed that we treat
+events like sitting at the dinner table with your family. It builds integrity
+in a community and strengthens the relationships that people create.
+
+- Events
+
+- Programs
+
+Now the events come in JSG are specific: Events are planned lobbies that the
+entire community is involved with automadically. You agree to join in on events
+as a member. 
+	
+	"Planned lobbies that the entire community is involved with automadically."
+
+A Program 
+
 
 
 #. Common Questions & Concerns
 New and veteran Members ask some specific questions, and I'd like to address
 some of those questions in this section. Mostly to get rid of any possible
 rumors or confusion getting spread between conversations.
+
+- Q&A
 
 Question 1: Do I always have to be on Mumble?
 
@@ -172,4 +246,38 @@ and encryption. Our server has DDoS protection and has very well mannered
 people who will respect your privacy in channels. If your friend won't at least
 try out Mumble you probably need to ask "What will this guy do if I ask for
 help in the future?" Emphasize your friendship and put it above the games that
-we play.
+you play.
+
+- Gui's 5 Whats
+Named after one of the members (Guissok), he brought up the basic questions
+regarding attendence at Game Night. Pretty much this is like a short Q&A of
+critical questions.
+
+Q: What if I do not have the game?
+A: Then you do not have to come to Game Night. If you can try to get your
+hands on a copy. Though, if the game is Free 2 Play then you already "own" the
+game and now you need to just install it.
+
+Q: What if I do not like the game?
+A: In a nutshell "You still have to come, because members should always value
+our friends over the games we play." So tolerate playing a game you don't like
+for one day and you'll find it'll still be fun when you're playing with
+frineds.
+
+Q: What if I do not have the game installed?
+A: Then install it. It's not a problem unless you're in an area with a limit on
+your internet bandwidth. You get 5 days between Town Hall and Game Night to get
+it installed.
+
+Q: What if I can not run the game?
+A: Then there's not much that can be done. You can try and install it and play
+it on very low settings; if you can't run the game nothing will be held against
+you.
+
+Q: What if I just have other $h!% to do?
+A: We have a thing called the PAR Triangle (Personal Accountability and
+Responsibility) We put matters of our family at the top, then our friends and
+community equally together, and finally our games at the bottom. If something
+comes up with our family, then it over-rides any responsibilites we have to our
+friends and community period. So if you have other stuff to do get it done and
+come back when you can enjoy the time you spend playing games with us.
